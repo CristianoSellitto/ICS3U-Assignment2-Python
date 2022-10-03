@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by Cristiano Sellitto
-# Created in September 2022
+# Created in October 2022
 # A program that finds the cost of a pizza, using user inputted diameter
 
 import math
