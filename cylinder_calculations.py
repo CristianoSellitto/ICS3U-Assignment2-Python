@@ -2,13 +2,13 @@
 
 # Created by Cristiano Sellitto
 # Created in October 2022
-# A program that finds the cost of a pizza, using user inputted diameter
+# A program that finds volume and surface area of a cylinder
 
 import math
 
 
 def main():
-    # Finds the cost of a pizza using diameter sent by the user
+    # Finds volume and surface area of a cylinder
 
     radius_of_cylinder = int(input("Enter the radius of a cylinder (cm): "))
     height_of_cylinder = int(input("Enter the height of a cylinder (cm): "))
